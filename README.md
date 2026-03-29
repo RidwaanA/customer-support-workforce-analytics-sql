@@ -1,7 +1,7 @@
 # Customer Support Workforce Analytics & Hiring Optimisation Framework
 
 # Project Overview
-Built a data-driven workforce analytics framework for DSLG Bank to assess support demand, employee workload, and operational pressure points across 161 bank branches in 10 countries.
+Built a data-driven workforce analytics framework to assess support demand, employee workload, and operational pressure points across 161 DSLG Bank branches in 10 countries.
 
 The project enables leadership to make quantitative hiring decisions based on actual workload and service demand.
 
